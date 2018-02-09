@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Microsoft Technologies | Miracle</title>
+    <title>Microsoft | Miracle</title>
     <link href="../../../css/fix-media-query.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../../../css/default.css" />
 	<link rel="stylesheet" type="text/css" href="../../../css/component.css" />
